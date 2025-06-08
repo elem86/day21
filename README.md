@@ -19,7 +19,7 @@ Today I built a simple Outlier Detection Tool in Excel to highlight unusually hi
     - 🔴 High outliers (Z > 2)
 
     - 🔵 Low outliers (Z < -2)
-    - 
+    
 
 💡 It’s a fast, visual way to flag anomalies for further analysis — and a great building block for real-world reporting dashboards.
 
